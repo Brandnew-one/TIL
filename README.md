@@ -16,6 +16,7 @@
 ## Swift
 
 * [제네릭 타입](https://github.com/Brandnew-one/TIL/issues/6)
+* [Equatable](https://github.com/Brandnew-one/TIL/issues/7)
 
 ***
 
