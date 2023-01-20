@@ -29,6 +29,7 @@
 ***
 
 * [딥링크 - 01](https://github.com/Brandnew-one/TIL/issues/16)
+* [딥링크 - 버그](https://github.com/Brandnew-one/TIL/issues/18)
 
 ***
 
