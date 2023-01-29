@@ -30,3 +30,4 @@ TIL이라고 쓰고 SwiftUI 버그 모음집이라 읽는다...
 * [딥링크 - 버그](https://github.com/Brandnew-one/TIL/issues/18)
 * [WebView - Dynamic Height](https://github.com/Brandnew-one/TIL/issues/17)
 * [List Item을 NavigationLink로 만든경우](https://github.com/Brandnew-one/TIL/issues/20)
+* [TabBar Hideen - 버그](https://github.com/Brandnew-one/TIL/issues/21)
