@@ -18,11 +18,20 @@
 
 ## iOS
 
+```
+정리를 게을리 하다보니 공부한 내용들이 드래곤볼 마냥 흩어져 있습니다.
+RxSwift, Combine, Architecture에 관한 내용은 아래 레포에서 확인하실 수 있습니다
+```
+* [RxSwift 관련 정리 레포](https://github.com/Brandnew-one/Practice-RxSwift)
+* [Combine 관련 정리 레포](https://github.com/Brandnew-one/Practice-Combine)
+* [Architecture 관련 정리 레포](https://github.com/Brandnew-one/Practice-Architecture)
+---
 * [동시성 프로그래밍 - 01](https://github.com/Brandnew-one/TIL/issues/12)
 * [동시성 프로그래밍 - 02](https://github.com/Brandnew-one/TIL/issues/13)
 * [딥링크 - 01](https://github.com/Brandnew-one/TIL/issues/16)
 * [WebSocket - CLOSE_WAIT](https://github.com/Brandnew-one/TIL/issues/23)
 * [Local Cocoapods 만들기](https://github.com/Brandnew-one/TIL/issues/24)
+
 
 ---
 
