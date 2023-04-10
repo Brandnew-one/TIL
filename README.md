@@ -12,7 +12,7 @@
 ```
 인프런 김영한 선생님의 HTTP 웹 기본지식을 듣고 정리한 내용입니다.
 ```
-* [HTTP 웹 기본지식 - 01](https://github.com/Brandnew-one/TIL/issues/25)
+* [HTTP 웹 기본지식 - 01 (IP, TCP/UDP, PORT, DNS)](https://github.com/Brandnew-one/TIL/issues/25)
 
 ---
 
