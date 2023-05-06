@@ -35,7 +35,7 @@ RxSwift, Combine, Architecture에 관한 내용은 아래 레포에서 확인하
 * [Combine 관련 정리 레포](https://github.com/Brandnew-one/Practice-Combine)
 * [Architecture 관련 정리 레포](https://github.com/Brandnew-one/Practice-Architecture)
 ---
-암호화 알고리즘
+### 암호화 알고리즘
 ```
 생뚱맞게 갑자기 암호화(?)라고 해서 당황스럽지만 
 네트워크 통신 중 보안을 위해서 구현한 암호화 알고리즘들에 대해서 정리하고 있습니다. (RSA, ECDSA, AES)
