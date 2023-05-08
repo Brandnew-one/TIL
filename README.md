@@ -41,6 +41,7 @@ RxSwift, Combine, Architecture에 관한 내용은 아래 레포에서 확인하
 네트워크 통신 중 보안을 위해서 구현한 암호화 알고리즘들에 대해서 정리하고 있습니다. (RSA, ECDSA, AES)
 ```
 * [대칭키와 비대칭키](https://github.com/Brandnew-one/TIL/issues/27)
+* [ECDSA - 1](https://github.com/Brandnew-one/TIL/issues/28)
 
 ---
 * [동시성 프로그래밍 - 01](https://github.com/Brandnew-one/TIL/issues/12)
