@@ -34,6 +34,14 @@ RxSwift, Combine, Architecture에 관한 내용은 아래 레포에서 확인하
 * [RxSwift 관련 정리 레포](https://github.com/Brandnew-one/Practice-RxSwift)
 * [Combine 관련 정리 레포](https://github.com/Brandnew-one/Practice-Combine)
 * [Architecture 관련 정리 레포](https://github.com/Brandnew-one/Practice-Architecture)
+
+---
+* [동시성 프로그래밍 - 01](https://github.com/Brandnew-one/TIL/issues/12)
+* [동시성 프로그래밍 - 02](https://github.com/Brandnew-one/TIL/issues/13)
+* [딥링크 - 01](https://github.com/Brandnew-one/TIL/issues/16)
+* [WebSocket - CLOSE_WAIT](https://github.com/Brandnew-one/TIL/issues/23)
+* [Local Cocoapods 만들기](https://github.com/Brandnew-one/TIL/issues/24)
+
 ---
 ### 암호화 알고리즘
 ```
@@ -45,15 +53,6 @@ RxSwift, Combine, Architecture에 관한 내용은 아래 레포에서 확인하
 * [ECDSA - 서명 생성 및 검증](https://github.com/Brandnew-one/TIL/issues/29)
 * [RSA - 키 생성](https://github.com/Brandnew-one/TIL/issues/30)
 * [RSA - 암호화/복호화](https://github.com/Brandnew-one/TIL/issues/31)
-
----
-* [동시성 프로그래밍 - 01](https://github.com/Brandnew-one/TIL/issues/12)
-* [동시성 프로그래밍 - 02](https://github.com/Brandnew-one/TIL/issues/13)
-* [딥링크 - 01](https://github.com/Brandnew-one/TIL/issues/16)
-* [WebSocket - CLOSE_WAIT](https://github.com/Brandnew-one/TIL/issues/23)
-* [Local Cocoapods 만들기](https://github.com/Brandnew-one/TIL/issues/24)
-
-
 ---
 
 ## SwiftUI 버그 모음집
