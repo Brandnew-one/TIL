@@ -53,6 +53,7 @@ RxSwift, Combine, Architecture에 관한 내용은 아래 레포에서 확인하
 * [ECDSA - 서명 생성 및 검증](https://github.com/Brandnew-one/TIL/issues/29)
 * [RSA - 키 생성](https://github.com/Brandnew-one/TIL/issues/30)
 * [RSA - 암호화/복호화](https://github.com/Brandnew-one/TIL/issues/31)
+* [AES](https://github.com/Brandnew-one/TIL/issues/32)
 ---
 
 ## SwiftUI 버그 모음집
