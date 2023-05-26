@@ -36,11 +36,15 @@ RxSwift, Combine, Architecture에 관한 내용은 아래 레포에서 확인하
 * [Architecture 관련 정리 레포](https://github.com/Brandnew-one/Practice-Architecture)
 
 ---
-* [동시성 프로그래밍 - 01](https://github.com/Brandnew-one/TIL/issues/12)
-* [동시성 프로그래밍 - 02](https://github.com/Brandnew-one/TIL/issues/13)
+* [동시성 프로그래밍 - 1](https://github.com/Brandnew-one/TIL/issues/12)
+* [동시성 프로그래밍 - 2](https://github.com/Brandnew-one/TIL/issues/13)
 * [딥링크 - 01](https://github.com/Brandnew-one/TIL/issues/16)
 * [WebSocket - CLOSE_WAIT](https://github.com/Brandnew-one/TIL/issues/23)
 * [Local Cocoapods 만들기](https://github.com/Brandnew-one/TIL/issues/24)
+
+---
+### Xcode
+* [개발(배포)환경 나누기 - 1](https://github.com/Brandnew-one/TIL/issues/33)
 
 ---
 ### 암호화 알고리즘
