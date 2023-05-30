@@ -45,6 +45,7 @@ RxSwift, Combine, Architecture에 관한 내용은 아래 레포에서 확인하
 ---
 ### Xcode
 * [개발(배포)환경 나누기 - 1](https://github.com/Brandnew-one/TIL/issues/33)
+* [개발(배포)환경 나누기 - 2](https://github.com/Brandnew-one/TIL/issues/34)
 
 ---
 ### 암호화 알고리즘
