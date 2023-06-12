@@ -14,6 +14,7 @@
 ```
 * [HTTP 웹 기본지식 - 01 (IP, TCP/UDP, PORT, DNS)](https://github.com/Brandnew-one/TIL/issues/25)
 * [HTTP 웹 기본지식 - 02 (URI, URL, URN)](https://github.com/Brandnew-one/TIL/issues/26)
+* [HTTP 웹 기본지식 - 03 (HTTP)](https://github.com/Brandnew-one/TIL/issues/35)
 
 ---
 
