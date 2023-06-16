@@ -17,6 +17,7 @@
 * [HTTP 웹 기본지식 - 03 (HTTP)](https://github.com/Brandnew-one/TIL/issues/35)
 * [HTTP 웹 기본지식 - 04 (HTTP Method)](https://github.com/Brandnew-one/TIL/issues/36)
 * [HTTP 웹 기본지식 - 05 (HTTP Method 활용)](https://github.com/Brandnew-one/TIL/issues/37)
+* [HTTP 웹 기본지식 - 06 (HTTP 상태코드)](https://github.com/Brandnew-one/TIL/issues/38)
 
 ---
 
