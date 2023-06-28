@@ -42,8 +42,14 @@ RxSwift, Combine, Architecture에 관한 내용은 아래 레포에서 확인하
 * [Architecture 관련 정리 레포](https://github.com/Brandnew-one/Practice-Architecture)
 
 ---
+```
+인프런 앨런 선생님의 iOS Concurrency(동시성) 프로그래밍, 동기 비동기 처리
+그리고 GCD/Operation - 디스패치큐와 오퍼레이션큐의 이해를 듣고 정리한 내용입니다.
+```
 * [동시성 프로그래밍 - 1](https://github.com/Brandnew-one/TIL/issues/12)
 * [동시성 프로그래밍 - 2](https://github.com/Brandnew-one/TIL/issues/13)
+
+---
 * [딥링크 - 01](https://github.com/Brandnew-one/TIL/issues/16)
 * [WebSocket - CLOSE_WAIT](https://github.com/Brandnew-one/TIL/issues/23)
 * [Local Cocoapods 만들기](https://github.com/Brandnew-one/TIL/issues/24)
