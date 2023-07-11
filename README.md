@@ -26,6 +26,8 @@
 * [제네릭 타입](https://github.com/Brandnew-one/TIL/issues/6)
 * [Equatable](https://github.com/Brandnew-one/TIL/issues/7)
 * [Hashable](https://github.com/Brandnew-one/TIL/issues/8)
+* [클로저 - 저장 프로퍼티 초기화](https://github.com/Brandnew-one/TIL/issues/42)
+* [클로저 - @autoclosure](https://github.com/Brandnew-one/TIL/issues/43)
 
 ---
 
@@ -48,6 +50,11 @@ RxSwift, Combine, Architecture에 관한 내용은 아래 레포에서 확인하
 * [동시성 프로그래밍 - 2](https://github.com/Brandnew-one/TIL/issues/13)
 
 ---
+
+* [스토리보드와 xib](https://github.com/Brandnew-one/TIL/issues/44)
+* [Xib와 Nib](https://github.com/Brandnew-one/TIL/issues/45)
+---
+
 * [딥링크 - 01](https://github.com/Brandnew-one/TIL/issues/16)
 * [WebSocket - CLOSE_WAIT](https://github.com/Brandnew-one/TIL/issues/23)
 * [Local Cocoapods 만들기](https://github.com/Brandnew-one/TIL/issues/24)
